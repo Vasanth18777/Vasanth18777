@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vasanth
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking for job or any kind of intership
 - 📫 How to reach me Vasanths606@gmail.com
 
 <!---
